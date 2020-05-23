@@ -1,0 +1,32 @@
+SO commands are:
+git config --global user.name "ddfhadjhf"
+git config --global email.name "dfdsf"
+
+git init 
+//To initialise git repository in your destop folder.
+
+create your content.
+
+git add .
+//To add all content of creativity.
+
+git commit -m  " Message"
+//commit to master.
+
+ssh-keygen -t rsa -C "email_id"
+
+notepad ~/.ssh/id_rsa.pub 
+//enter above key to ssh key on github account.
+
+ssh -T git@github.com
+//check working
+
+create a repo on github 
+
+git remote add origin git@github.com:USER/REPO_NAME
+
+git push origin master 
+
+
+For more clarity see following link.
+https://www.pluralsight.com/guides/using-git-and-github-on-windows
