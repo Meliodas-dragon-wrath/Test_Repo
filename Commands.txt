@@ -1,0 +1,9 @@
+
+1.Commit: 
+Makes ss of our project  but not completely only of changed data from previous one and also 
+maintains a record of change of history.
+
+$ git commit 
+and 
+$git commit -a
+

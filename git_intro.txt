@@ -24,6 +24,7 @@ ssh -T git@github.com
 create a repo on github 
 
 git remote add origin git@github.com:USER/REPO_NAME
+//connect to repo on github
 
 git push origin master 
 
