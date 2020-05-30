@@ -31,3 +31,16 @@ git push origin master
 
 For more clarity see following link.
 https://www.pluralsight.com/guides/using-git-and-github-on-windows
+
+
+create a new repository on the command line
+echo "# EPOC" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:Meliodas-dragon-wrath/EPOC.git
+git push -u origin master
+
+ push an existing repository from the command line
+git remote add origin git@github.com:Meliodas-dragon-wrath/EPOC.git
+git push -u origin master
