@@ -1,4 +1,4 @@
-SO commands are:
+So commands are:
 git config --global user.name "ddfhadjhf"
 git config --global email.name "dfdsf"
 
